@@ -1,4 +1,5 @@
 export default async function fetchIPJSON(laip) {
+	// IP TESTS
 	// 200.120.165.198
 	// 181.203.95.184
 	let url = "https://ipapi.co/200.120.165.198/json/";
